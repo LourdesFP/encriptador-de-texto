@@ -1,7 +1,7 @@
 # encriptador-de-texto
 Trabajo correspondiente al 1er desafío de Lógica de programación, del programa ONE. 
 <h1> Sobre el desafío: </h1> 
-Esta aplicación tiene como fucionalidad codificar textos conviertiendo las vocales por llaves de encriptación. Las "llaves" de encriptación que se utilizas son las siguientes:
+Esta aplicación tiene como fucionalidad codificar textos conviertiendo las vocales por llaves de encriptación. Las "llaves" de encriptación que se utilizan son las siguientes:
 <br>
 La letra "a" es convertida para "ai"
 <br>
